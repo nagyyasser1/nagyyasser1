@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagy Yasser</h1>
-<h3 align="center">A passionate fullstack developer from Egypt</h3>
+<h3 align="center">A passionate nodejs developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Full stack development**
 
