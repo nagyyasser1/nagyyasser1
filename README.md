@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Node, Express, Nest**
 
-- 📫 How to reach me **nagyy8751@gmail.com**
+- 📫 How to reach me **nagyy8751@gmail.com** **01094066795**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
